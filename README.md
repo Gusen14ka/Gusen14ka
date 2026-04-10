@@ -32,18 +32,6 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gusen14ka&show_icons=true&theme=tokyonight&hide_border=true&locale=ru)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gusen14ka&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
-</div>
-
 ---
 
 <div align="center">

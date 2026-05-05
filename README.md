@@ -2,7 +2,7 @@
 
 # Привет, я Глеб 👋
 
-**Программист-разработчик · СПбПУ · C++ / Python / Qt**
+**Программист-разработчик · СПбПУ · C++ / Python**
 
 [![Email](https://img.shields.io/badge/Email-gusev.ga05%40yandex.ru-blue?style=flat-square&logo=yandex)](mailto:gusev.ga05@yandex.ru)
 
